@@ -1,0 +1,605 @@
+audio_filename,original_filepath,converted_file_path,recorded_word
+ĩse.wav,xavante_renamed/ĩse.wav,data/converted_audio/xavante/sd1775566602_1.wav,ĩse
+ĩse.wav,xavante_renamed/ĩse.wav,data/converted_audio/xavante/sd1775566602_2.wav,ĩse
+ĩra.wav,xavante_renamed/ĩra.wav,data/converted_audio/xavante/sd1775566603_1.wav,ĩra
+ĩra.wav,xavante_renamed/ĩra.wav,data/converted_audio/xavante/sd1775566603_2.wav,ĩra
+daPaihiwasisize.wav,xavante_renamed/daPaihiwasisize.wav,data/converted_audio/xavante/sd1775566604_1.wav,da paihiwasisize
+daPaihiwasisize.wav,xavante_renamed/daPaihiwasisize.wav,data/converted_audio/xavante/sd1775566604_2.wav,da paihiwasisize
+roWa'u.wav,xavante_renamed/roWa'u.wav,data/converted_audio/xavante/sd1775566605_1.wav,ro wa'u
+roWa'u.wav,xavante_renamed/roWa'u.wav,data/converted_audio/xavante/sd1775566605_2.wav,ro wa'u
+wapsõmri.wav,xavante_renamed/wapsõmri.wav,data/converted_audio/xavante/sd1775566606_1.wav,wapsõmri
+wapsõmri.wav,xavante_renamed/wapsõmri.wav,data/converted_audio/xavante/sd1775566606_2.wav,wapsõmri
+asaro.wav,xavante_renamed/asaro.wav,data/converted_audio/xavante/sd1775566607_1.wav,asaro
+asaro.wav,xavante_renamed/asaro.wav,data/converted_audio/xavante/sd1775566607_2.wav,asaro
+si'õno.wav,xavante_renamed/si'õno.wav,data/converted_audio/xavante/sd1775566608_1.wav,si'õno
+si'õno.wav,xavante_renamed/si'õno.wav,data/converted_audio/xavante/sd1775566608_2.wav,si'õno
+dawasudu.wav,xavante_renamed/dawasudu.wav,data/converted_audio/xavante/sd1775566609_1.wav,dawasudu
+dawasudu.wav,xavante_renamed/dawasudu.wav,data/converted_audio/xavante/sd1775566609_2.wav,dawasudu
+ĩwa'aro.wav,xavante_renamed/ĩwa'aro.wav,data/converted_audio/xavante/sd1775566610_1.wav,ĩwa'aro
+ĩwa'aro.wav,xavante_renamed/ĩwa'aro.wav,data/converted_audio/xavante/sd1775566610_2.wav,ĩwa'aro
+dawa'a.wav,xavante_renamed/dawa'a.wav,data/converted_audio/xavante/sd1775566611_1.wav,dawa'a
+dawa'a.wav,xavante_renamed/dawa'a.wav,data/converted_audio/xavante/sd1775566611_2.wav,dawa'a
+watebremi.wav,xavante_renamed/watebremi.wav,data/converted_audio/xavante/sd1775566612_1.wav,watebremi
+watebremi.wav,xavante_renamed/watebremi.wav,data/converted_audio/xavante/sd1775566612_2.wav,watebremi
+ma'para'ne.wav,xavante_renamed/ma'para'ne.wav,data/converted_audio/xavante/sd1775566613_1.wav,ma'para'ne
+ma'para'ne.wav,xavante_renamed/ma'para'ne.wav,data/converted_audio/xavante/sd1775566613_2.wav,ma'para'ne
+iwa'ono.wav,xavante_renamed/iwa'ono.wav,data/converted_audio/xavante/sd1775566614_1.wav,iwa'ono
+iwa'ono.wav,xavante_renamed/iwa'ono.wav,data/converted_audio/xavante/sd1775566614_2.wav,iwa'ono
+wapsa.wav,xavante_renamed/wapsa.wav,data/converted_audio/xavante/sd1775566615_1.wav,wapsa
+wapsa.wav,xavante_renamed/wapsa.wav,data/converted_audio/xavante/sd1775566615_2.wav,wapsa
+dasairĩwarĩnĩre.wav,xavante_renamed/dasairĩwarĩnĩre.wav,data/converted_audio/xavante/sd1775566616_1.wav,dasairĩwarĩnĩre
+dasairĩwarĩnĩre.wav,xavante_renamed/dasairĩwarĩnĩre.wav,data/converted_audio/xavante/sd1775566616_2.wav,dasairĩwarĩnĩre
+owara.wav,xavante_renamed/owara.wav,data/converted_audio/xavante/sd1775566617_1.wav,owara
+owara.wav,xavante_renamed/owara.wav,data/converted_audio/xavante/sd1775566617_2.wav,owara
+ze'rẽne.wav,xavante_renamed/ze'rẽne.wav,data/converted_audio/xavante/sd1775566618_1.wav,ze'rẽne
+ze'rẽne.wav,xavante_renamed/ze'rẽne.wav,data/converted_audio/xavante/sd1775566618_2.wav,ze'rẽne
+sizeri.wav,xavante_renamed/sizeri.wav,data/converted_audio/xavante/sd1775566619_1.wav,sizeri
+sizeri.wav,xavante_renamed/sizeri.wav,data/converted_audio/xavante/sd1775566619_2.wav,sizeri
+da'po're.wav,xavante_renamed/da'po're.wav,data/converted_audio/xavante/sd1775566620_1.wav,da'po're
+da'po're.wav,xavante_renamed/da'po're.wav,data/converted_audio/xavante/sd1775566620_2.wav,da'po're
+hi.wav,xavante_renamed/hi.wav,data/converted_audio/xavante/sd1775566621_1.wav,hi
+hi.wav,xavante_renamed/hi.wav,data/converted_audio/xavante/sd1775566621_2.wav,hi
+waWi.wav,xavante_renamed/waWi.wav,data/converted_audio/xavante/sd1775566622_1.wav,wa wi
+waWi.wav,xavante_renamed/waWi.wav,data/converted_audio/xavante/sd1775566622_2.wav,wa wi
+a'sisi.wav,xavante_renamed/a'sisi.wav,data/converted_audio/xavante/sd1775566623_1.wav,a'sisi
+a'sisi.wav,xavante_renamed/a'sisi.wav,data/converted_audio/xavante/sd1775566623_2.wav,a'sisi
+bede.wav,xavante_renamed/bede.wav,data/converted_audio/xavante/sd1775566624_1.wav,bede
+bede.wav,xavante_renamed/bede.wav,data/converted_audio/xavante/sd1775566624_2.wav,bede
+ba'õno.wav,xavante_renamed/ba'õno.wav,data/converted_audio/xavante/sd1775566625_1.wav,ba'õno
+ba'õno.wav,xavante_renamed/ba'õno.wav,data/converted_audio/xavante/sd1775566625_2.wav,ba'õno
+aibe.wav,xavante_renamed/aibe.wav,data/converted_audio/xavante/sd1775566626_1.wav,aibe
+aibe.wav,xavante_renamed/aibe.wav,data/converted_audio/xavante/sd1775566626_2.wav,aibe
+rati.wav,xavante_renamed/rati.wav,data/converted_audio/xavante/sd1775566627_1.wav,rati
+rati.wav,xavante_renamed/rati.wav,data/converted_audio/xavante/sd1775566627_2.wav,rati
+siroptu.wav,xavante_renamed/siroptu.wav,data/converted_audio/xavante/sd1775566628_1.wav,siroptu
+siroptu.wav,xavante_renamed/siroptu.wav,data/converted_audio/xavante/sd1775566628_2.wav,siroptu
+marawa'wa.wav,xavante_renamed/marawa'wa.wav,data/converted_audio/xavante/sd1775566629_1.wav,marawa'wa
+marawa'wa.wav,xavante_renamed/marawa'wa.wav,data/converted_audio/xavante/sd1775566629_2.wav,marawa'wa
+a'amo.wav,xavante_renamed/a'amo.wav,data/converted_audio/xavante/sd1775566630_1.wav,a'amo
+a'amo.wav,xavante_renamed/a'amo.wav,data/converted_audio/xavante/sd1775566630_2.wav,a'amo
+ĩWada.wav,xavante_renamed/ĩWada.wav,data/converted_audio/xavante/sd1775566631_1.wav,ĩ wada
+ĩWada.wav,xavante_renamed/ĩWada.wav,data/converted_audio/xavante/sd1775566631_2.wav,ĩ wada
+daHere.wav,xavante_renamed/daHere.wav,data/converted_audio/xavante/sd1775566632_1.wav,da here
+daHere.wav,xavante_renamed/daHere.wav,data/converted_audio/xavante/sd1775566632_2.wav,da here
+iso'ribi.wav,xavante_renamed/iso'ribi.wav,data/converted_audio/xavante/sd1775566633_1.wav,iso'ribi
+iso'ribi.wav,xavante_renamed/iso'ribi.wav,data/converted_audio/xavante/sd1775566633_2.wav,iso'ribi
+daBudu.wav,xavante_renamed/daBudu.wav,data/converted_audio/xavante/sd1775566634_1.wav,da budu
+daBudu.wav,xavante_renamed/daBudu.wav,data/converted_audio/xavante/sd1775566634_2.wav,da budu
+daPiri.wav,xavante_renamed/daPiri.wav,data/converted_audio/xavante/sd1775566635_1.wav,da piri
+daPiri.wav,xavante_renamed/daPiri.wav,data/converted_audio/xavante/sd1775566635_2.wav,da piri
+ĩ'uware.wav,xavante_renamed/ĩ'uware.wav,data/converted_audio/xavante/sd1775566636_1.wav,ĩ'uware
+ĩ'uware.wav,xavante_renamed/ĩ'uware.wav,data/converted_audio/xavante/sd1775566636_2.wav,ĩ'uware
+tapĩnize.wav,xavante_renamed/tapĩnize.wav,data/converted_audio/xavante/sd1775566637_1.wav,tapĩnize
+tapĩnize.wav,xavante_renamed/tapĩnize.wav,data/converted_audio/xavante/sd1775566637_2.wav,tapĩnize
+da'amadasiwari.wav,xavante_renamed/da'amadasiwari.wav,data/converted_audio/xavante/sd1775566638_1.wav,da'amadasiwari
+da'amadasiwari.wav,xavante_renamed/da'amadasiwari.wav,data/converted_audio/xavante/sd1775566638_2.wav,da'amadasiwari
+da'ra'ia'õno.wav,xavante_renamed/da'ra'ia'õno.wav,data/converted_audio/xavante/sd1775566639_1.wav,da'ra'ia'õno
+da'ra'ia'õno.wav,xavante_renamed/da'ra'ia'õno.wav,data/converted_audio/xavante/sd1775566639_2.wav,da'ra'ia'õno
+awẽpsi.wav,xavante_renamed/awẽpsi.wav,data/converted_audio/xavante/sd1775566640_1.wav,awẽpsi
+awẽpsi.wav,xavante_renamed/awẽpsi.wav,data/converted_audio/xavante/sd1775566640_2.wav,awẽpsi
+daNhi'po.wav,xavante_renamed/daNhi'po.wav,data/converted_audio/xavante/sd1775566641_1.wav,da nhi'po
+daNhi'po.wav,xavante_renamed/daNhi'po.wav,data/converted_audio/xavante/sd1775566641_2.wav,da nhi'po
+wata'se.wav,xavante_renamed/wata'se.wav,data/converted_audio/xavante/sd1775566642_1.wav,wata'se
+wata'se.wav,xavante_renamed/wata'se.wav,data/converted_audio/xavante/sd1775566642_2.wav,wata'se
+da'tõri.wav,xavante_renamed/da'tõri.wav,data/converted_audio/xavante/sd1775566643_1.wav,da'tõri
+da'tõri.wav,xavante_renamed/da'tõri.wav,data/converted_audio/xavante/sd1775566643_2.wav,da'tõri
+ab'ru.wav,xavante_renamed/ab'ru.wav,data/converted_audio/xavante/sd1775566644_1.wav,ab'ru
+ab'ru.wav,xavante_renamed/ab'ru.wav,data/converted_audio/xavante/sd1775566644_2.wav,ab'ru
+dazoto.wav,xavante_renamed/dazoto.wav,data/converted_audio/xavante/sd1775566645_1.wav,dazoto
+dazoto.wav,xavante_renamed/dazoto.wav,data/converted_audio/xavante/sd1775566645_2.wav,dazoto
+daNhiptomohi.wav,xavante_renamed/daNhiptomohi.wav,data/converted_audio/xavante/sd1775566646_1.wav,da nhiptomohi
+daNhiptomohi.wav,xavante_renamed/daNhiptomohi.wav,data/converted_audio/xavante/sd1775566646_2.wav,da nhiptomohi
+daSaIwarĩnĩZe.wav,xavante_renamed/daSaIwarĩnĩZe.wav,data/converted_audio/xavante/sd1775566647_1.wav,da sa iwarĩnĩ ze
+daSaIwarĩnĩZe.wav,xavante_renamed/daSaIwarĩnĩZe.wav,data/converted_audio/xavante/sd1775566647_2.wav,da sa iwarĩnĩ ze
+ĩ're.wav,xavante_renamed/ĩ're.wav,data/converted_audio/xavante/sd1775566648_1.wav,ĩ're
+ĩ're.wav,xavante_renamed/ĩ're.wav,data/converted_audio/xavante/sd1775566648_2.wav,ĩ're
+wedenhoro.wav,xavante_renamed/wedenhoro.wav,data/converted_audio/xavante/sd1775566649_1.wav,wedenhoro
+wedenhoro.wav,xavante_renamed/wedenhoro.wav,data/converted_audio/xavante/sd1775566649_2.wav,wedenhoro
+rowahe.wav,xavante_renamed/rowahe.wav,data/converted_audio/xavante/sd1775566650_1.wav,rowahe
+rowahe.wav,xavante_renamed/rowahe.wav,data/converted_audio/xavante/sd1775566650_2.wav,rowahe
+manharĩ.wav,xavante_renamed/manharĩ.wav,data/converted_audio/xavante/sd1775566651_1.wav,manharĩ
+manharĩ.wav,xavante_renamed/manharĩ.wav,data/converted_audio/xavante/sd1775566651_2.wav,manharĩ
+ĩmro'tõ.wav,xavante_renamed/ĩmro'tõ.wav,data/converted_audio/xavante/sd1775566652_1.wav,ĩmro'tõ
+ĩmro'tõ.wav,xavante_renamed/ĩmro'tõ.wav,data/converted_audio/xavante/sd1775566652_2.wav,ĩmro'tõ
+isiru.wav,xavante_renamed/isiru.wav,data/converted_audio/xavante/sd1775566653_1.wav,isiru
+isiru.wav,xavante_renamed/isiru.wav,data/converted_audio/xavante/sd1775566653_2.wav,isiru
+sõ'te.wav,xavante_renamed/sõ'te.wav,data/converted_audio/xavante/sd1775566654_1.wav,sõ'te
+sõ'te.wav,xavante_renamed/sõ'te.wav,data/converted_audio/xavante/sd1775566654_2.wav,sõ'te
+ĩhi.wav,xavante_renamed/ĩhi.wav,data/converted_audio/xavante/sd1775566655_1.wav,ĩhi
+ĩhi.wav,xavante_renamed/ĩhi.wav,data/converted_audio/xavante/sd1775566655_2.wav,ĩhi
+daSiwa'e.wav,xavante_renamed/daSiwa'e.wav,data/converted_audio/xavante/sd1775566656_1.wav,da siwa'e
+daSiwa'e.wav,xavante_renamed/daSiwa'e.wav,data/converted_audio/xavante/sd1775566656_2.wav,da siwa'e
+ĩsamo.wav,xavante_renamed/ĩsamo.wav,data/converted_audio/xavante/sd1775566657_1.wav,ĩsamo
+ĩsamo.wav,xavante_renamed/ĩsamo.wav,data/converted_audio/xavante/sd1775566657_2.wav,ĩsamo
+asada'ra.wav,xavante_renamed/asada'ra.wav,data/converted_audio/xavante/sd1775566658_1.wav,asada'ra
+asada'ra.wav,xavante_renamed/asada'ra.wav,data/converted_audio/xavante/sd1775566658_2.wav,asada'ra
+mawahudu.wav,xavante_renamed/mawahudu.wav,data/converted_audio/xavante/sd1775566659_1.wav,mawahudu
+mawahudu.wav,xavante_renamed/mawahudu.wav,data/converted_audio/xavante/sd1775566659_2.wav,mawahudu
+ĩ'ra.wav,xavante_renamed/ĩ'ra.wav,data/converted_audio/xavante/sd1775566660_1.wav,ĩ'ra
+ĩ'ra.wav,xavante_renamed/ĩ'ra.wav,data/converted_audio/xavante/sd1775566660_2.wav,ĩ'ra
+si'rana.wav,xavante_renamed/si'rana.wav,data/converted_audio/xavante/sd1775566661_1.wav,si'rana
+si'rana.wav,xavante_renamed/si'rana.wav,data/converted_audio/xavante/sd1775566661_2.wav,si'rana
+ĩsuru.wav,xavante_renamed/ĩsuru.wav,data/converted_audio/xavante/sd1775566662_1.wav,ĩsuru
+ĩsuru.wav,xavante_renamed/ĩsuru.wav,data/converted_audio/xavante/sd1775566662_2.wav,ĩsuru
+su'para.wav,xavante_renamed/su'para.wav,data/converted_audio/xavante/sd1775566663_1.wav,su'para
+su'para.wav,xavante_renamed/su'para.wav,data/converted_audio/xavante/sd1775566663_2.wav,su'para
+dapo'rehaimrami.wav,xavante_renamed/dapo'rehaimrami.wav,data/converted_audio/xavante/sd1775566664_1.wav,dapo'rehaimrami
+dapo'rehaimrami.wav,xavante_renamed/dapo'rehaimrami.wav,data/converted_audio/xavante/sd1775566664_2.wav,dapo'rehaimrami
+aze.wav,xavante_renamed/aze.wav,data/converted_audio/xavante/sd1775566665_1.wav,aze
+aze.wav,xavante_renamed/aze.wav,data/converted_audio/xavante/sd1775566665_2.wav,aze
+somri.wav,xavante_renamed/somri.wav,data/converted_audio/xavante/sd1775566666_1.wav,somri
+somri.wav,xavante_renamed/somri.wav,data/converted_audio/xavante/sd1775566666_2.wav,somri
+ĩ'pre.wav,xavante_renamed/ĩ'pre.wav,data/converted_audio/xavante/sd1775566667_1.wav,ĩ'pre
+ĩ'pre.wav,xavante_renamed/ĩ'pre.wav,data/converted_audio/xavante/sd1775566667_2.wav,ĩ'pre
+'wanhipre.wav,xavante_renamed/'wanhipre.wav,data/converted_audio/xavante/sd1775566668_1.wav,'wanhipre
+'wanhipre.wav,xavante_renamed/'wanhipre.wav,data/converted_audio/xavante/sd1775566668_2.wav,'wanhipre
+daZadawa.wav,xavante_renamed/daZadawa.wav,data/converted_audio/xavante/sd1775566669_1.wav,da zadawa
+daZadawa.wav,xavante_renamed/daZadawa.wav,data/converted_audio/xavante/sd1775566669_2.wav,da zadawa
+daNho'udu.wav,xavante_renamed/daNho'udu.wav,data/converted_audio/xavante/sd1775566670_1.wav,da nho'udu
+daNho'udu.wav,xavante_renamed/daNho'udu.wav,data/converted_audio/xavante/sd1775566670_2.wav,da nho'udu
+daHeimana.wav,xavante_renamed/daHeimana.wav,data/converted_audio/xavante/sd1775566671_1.wav,da heimana
+daHeimana.wav,xavante_renamed/daHeimana.wav,data/converted_audio/xavante/sd1775566671_2.wav,da heimana
+desi're.wav,xavante_renamed/desi're.wav,data/converted_audio/xavante/sd1775566672_1.wav,desi're
+desi're.wav,xavante_renamed/desi're.wav,data/converted_audio/xavante/sd1775566672_2.wav,desi're
+awa'awi.wav,xavante_renamed/awa'awi.wav,data/converted_audio/xavante/sd1775566673_1.wav,awa'awi
+awa'awi.wav,xavante_renamed/awa'awi.wav,data/converted_audio/xavante/sd1775566673_2.wav,awa'awi
+ĩtehudu.wav,xavante_renamed/ĩtehudu.wav,data/converted_audio/xavante/sd1775566674_1.wav,ĩtehudu
+ĩtehudu.wav,xavante_renamed/ĩtehudu.wav,data/converted_audio/xavante/sd1775566674_2.wav,ĩtehudu
+piredi.wav,xavante_renamed/piredi.wav,data/converted_audio/xavante/sd1775566675_1.wav,piredi
+piredi.wav,xavante_renamed/piredi.wav,data/converted_audio/xavante/sd1775566675_2.wav,piredi
+ro'mirara.wav,xavante_renamed/ro'mirara.wav,data/converted_audio/xavante/sd1775566676_1.wav,ro'mirara
+ro'mirara.wav,xavante_renamed/ro'mirara.wav,data/converted_audio/xavante/sd1775566676_2.wav,ro'mirara
+ĩ'ro'bra.wav,xavante_renamed/ĩ'ro'bra.wav,data/converted_audio/xavante/sd1775566677_1.wav,ĩ'ro'bra
+ĩ'ro'bra.wav,xavante_renamed/ĩ'ro'bra.wav,data/converted_audio/xavante/sd1775566677_2.wav,ĩ'ro'bra
+orowa'a.wav,xavante_renamed/orowa'a.wav,data/converted_audio/xavante/sd1775566678_1.wav,orowa'a
+orowa'a.wav,xavante_renamed/orowa'a.wav,data/converted_audio/xavante/sd1775566678_2.wav,orowa'a
+to'ũ.wav,xavante_renamed/to'ũ.wav,data/converted_audio/xavante/sd1775566679_1.wav,to'ũ
+to'ũ.wav,xavante_renamed/to'ũ.wav,data/converted_audio/xavante/sd1775566679_2.wav,to'ũ
+awa.wav,xavante_renamed/awa.wav,data/converted_audio/xavante/sd1775566680_1.wav,awa
+awa.wav,xavante_renamed/awa.wav,data/converted_audio/xavante/sd1775566680_2.wav,awa
+nharĩ.wav,xavante_renamed/nharĩ.wav,data/converted_audio/xavante/sd1775566681_1.wav,nharĩ
+nharĩ.wav,xavante_renamed/nharĩ.wav,data/converted_audio/xavante/sd1775566681_2.wav,nharĩ
+daHeiba.wav,xavante_renamed/daHeiba.wav,data/converted_audio/xavante/sd1775566682_1.wav,da heiba
+daHeiba.wav,xavante_renamed/daHeiba.wav,data/converted_audio/xavante/sd1775566682_2.wav,da heiba
+roSawẽrẽ.wav,xavante_renamed/roSawẽrẽ.wav,data/converted_audio/xavante/sd1775566683_1.wav,ro sawẽrẽ
+roSawẽrẽ.wav,xavante_renamed/roSawẽrẽ.wav,data/converted_audio/xavante/sd1775566683_2.wav,ro sawẽrẽ
+romhedi.wav,xavante_renamed/romhedi.wav,data/converted_audio/xavante/sd1775566684_1.wav,romhedi
+romhedi.wav,xavante_renamed/romhedi.wav,data/converted_audio/xavante/sd1775566684_2.wav,romhedi
+misiri.wav,xavante_renamed/misiri.wav,data/converted_audio/xavante/sd1775566685_1.wav,misiri
+misiri.wav,xavante_renamed/misiri.wav,data/converted_audio/xavante/sd1775566685_2.wav,misiri
+ĩ'wahire.wav,xavante_renamed/ĩ'wahire.wav,data/converted_audio/xavante/sd1775566686_1.wav,ĩ'wahire
+ĩ'wahire.wav,xavante_renamed/ĩ'wahire.wav,data/converted_audio/xavante/sd1775566686_2.wav,ĩ'wahire
+'resu.wav,xavante_renamed/'resu.wav,data/converted_audio/xavante/sd1775566687_1.wav,'resu
+'resu.wav,xavante_renamed/'resu.wav,data/converted_audio/xavante/sd1775566687_2.wav,'resu
+daro.wav,xavante_renamed/daro.wav,data/converted_audio/xavante/sd1775566688_1.wav,daro
+daro.wav,xavante_renamed/daro.wav,data/converted_audio/xavante/sd1775566688_2.wav,daro
+'ri.wav,xavante_renamed/'ri.wav,data/converted_audio/xavante/sd1775566689_1.wav,'ri
+'ri.wav,xavante_renamed/'ri.wav,data/converted_audio/xavante/sd1775566689_2.wav,'ri
+simawẽ.wav,xavante_renamed/simawẽ.wav,data/converted_audio/xavante/sd1775566690_1.wav,simawẽ
+simawẽ.wav,xavante_renamed/simawẽ.wav,data/converted_audio/xavante/sd1775566690_2.wav,simawẽ
+da'pari.wav,xavante_renamed/da'pari.wav,data/converted_audio/xavante/sd1775566691_1.wav,da'pari
+da'pari.wav,xavante_renamed/da'pari.wav,data/converted_audio/xavante/sd1775566691_2.wav,da'pari
+wahi.wav,xavante_renamed/wahi.wav,data/converted_audio/xavante/sd1775566692_1.wav,wahi
+wahi.wav,xavante_renamed/wahi.wav,data/converted_audio/xavante/sd1775566692_2.wav,wahi
+ĩ'rare.wav,xavante_renamed/ĩ'rare.wav,data/converted_audio/xavante/sd1775566693_1.wav,ĩ'rare
+ĩ'rare.wav,xavante_renamed/ĩ'rare.wav,data/converted_audio/xavante/sd1775566693_2.wav,ĩ'rare
+zaze.wav,xavante_renamed/zaze.wav,data/converted_audio/xavante/sd1775566694_1.wav,zaze
+zaze.wav,xavante_renamed/zaze.wav,data/converted_audio/xavante/sd1775566694_2.wav,zaze
+apapaWanhiodo.wav,xavante_renamed/apapaWanhiodo.wav,data/converted_audio/xavante/sd1775566695_1.wav,apapa wanhiodo
+apapaWanhiodo.wav,xavante_renamed/apapaWanhiodo.wav,data/converted_audio/xavante/sd1775566695_2.wav,apapa wanhiodo
+aima'uri.wav,xavante_renamed/aima'uri.wav,data/converted_audio/xavante/sd1775566696_1.wav,aima'uri
+aima'uri.wav,xavante_renamed/aima'uri.wav,data/converted_audio/xavante/sd1775566696_2.wav,aima'uri
+pi'õ.wav,xavante_renamed/pi'õ.wav,data/converted_audio/xavante/sd1775566697_1.wav,pi'õ
+pi'õ.wav,xavante_renamed/pi'õ.wav,data/converted_audio/xavante/sd1775566697_2.wav,pi'õ
+'ra'marami.wav,xavante_renamed/'ra'marami.wav,data/converted_audio/xavante/sd1775566698_1.wav,'ra'marami
+'ra'marami.wav,xavante_renamed/'ra'marami.wav,data/converted_audio/xavante/sd1775566698_2.wav,'ra'marami
+ĩwa'ro.wav,xavante_renamed/ĩwa'ro.wav,data/converted_audio/xavante/sd1775566699_1.wav,ĩwa'ro
+ĩwa'ro.wav,xavante_renamed/ĩwa'ro.wav,data/converted_audio/xavante/sd1775566699_2.wav,ĩwa'ro
+daPano.wav,xavante_renamed/daPano.wav,data/converted_audio/xavante/sd1775566700_1.wav,da pano
+daPano.wav,xavante_renamed/daPano.wav,data/converted_audio/xavante/sd1775566700_2.wav,da pano
+aihe.wav,xavante_renamed/aihe.wav,data/converted_audio/xavante/sd1775566701_1.wav,aihe
+aihe.wav,xavante_renamed/aihe.wav,data/converted_audio/xavante/sd1775566701_2.wav,aihe
+maipisutu.wav,xavante_renamed/maipisutu.wav,data/converted_audio/xavante/sd1775566702_1.wav,maipisutu
+maipisutu.wav,xavante_renamed/maipisutu.wav,data/converted_audio/xavante/sd1775566702_2.wav,maipisutu
+a'pairi.wav,xavante_renamed/a'pairi.wav,data/converted_audio/xavante/sd1775566703_1.wav,a'pairi
+a'pairi.wav,xavante_renamed/a'pairi.wav,data/converted_audio/xavante/sd1775566703_2.wav,a'pairi
+romhuri.wav,xavante_renamed/romhuri.wav,data/converted_audio/xavante/sd1775566704_1.wav,romhuri
+romhuri.wav,xavante_renamed/romhuri.wav,data/converted_audio/xavante/sd1775566704_2.wav,romhuri
+abazi.wav,xavante_renamed/abazi.wav,data/converted_audio/xavante/sd1775566705_1.wav,abazi
+abazi.wav,xavante_renamed/abazi.wav,data/converted_audio/xavante/sd1775566705_2.wav,abazi
+abanhize.wav,xavante_renamed/abanhize.wav,data/converted_audio/xavante/sd1775566706_1.wav,abanhize
+abanhize.wav,xavante_renamed/abanhize.wav,data/converted_audio/xavante/sd1775566706_2.wav,abanhize
+asamra.wav,xavante_renamed/asamra.wav,data/converted_audio/xavante/sd1775566707_1.wav,asamra
+asamra.wav,xavante_renamed/asamra.wav,data/converted_audio/xavante/sd1775566707_2.wav,asamra
+daNho're.wav,xavante_renamed/daNho're.wav,data/converted_audio/xavante/sd1775566708_1.wav,da nho're
+daNho're.wav,xavante_renamed/daNho're.wav,data/converted_audio/xavante/sd1775566708_2.wav,da nho're
+wedehu.wav,xavante_renamed/wedehu.wav,data/converted_audio/xavante/sd1775566709_1.wav,wedehu
+wedehu.wav,xavante_renamed/wedehu.wav,data/converted_audio/xavante/sd1775566709_2.wav,wedehu
+daImizu.wav,xavante_renamed/daImizu.wav,data/converted_audio/xavante/sd1775566710_1.wav,da imizu
+daImizu.wav,xavante_renamed/daImizu.wav,data/converted_audio/xavante/sd1775566710_2.wav,da imizu
+ĩwasede.wav,xavante_renamed/ĩwasede.wav,data/converted_audio/xavante/sd1775566711_1.wav,ĩwasede
+ĩwasede.wav,xavante_renamed/ĩwasede.wav,data/converted_audio/xavante/sd1775566711_2.wav,ĩwasede
+heiwidaza.wav,xavante_renamed/heiwidaza.wav,data/converted_audio/xavante/sd1775566712_1.wav,heiwidaza
+heiwidaza.wav,xavante_renamed/heiwidaza.wav,data/converted_audio/xavante/sd1775566712_2.wav,heiwidaza
+pi'õihu.wav,xavante_renamed/pi'õihu.wav,data/converted_audio/xavante/sd1775566713_1.wav,pi'õihu
+pi'õihu.wav,xavante_renamed/pi'õihu.wav,data/converted_audio/xavante/sd1775566713_2.wav,pi'õihu
+waihuUpesedi.wav,xavante_renamed/waihuUpesedi.wav,data/converted_audio/xavante/sd1775566714_1.wav,waihu upesedi
+waihuUpesedi.wav,xavante_renamed/waihuUpesedi.wav,data/converted_audio/xavante/sd1775566714_2.wav,waihu upesedi
+duma.wav,xavante_renamed/duma.wav,data/converted_audio/xavante/sd1775566715_1.wav,duma
+duma.wav,xavante_renamed/duma.wav,data/converted_audio/xavante/sd1775566715_2.wav,duma
+ĩ'ra'de.wav,xavante_renamed/ĩ'ra'de.wav,data/converted_audio/xavante/sd1775566716_1.wav,ĩ'ra'de
+ĩ'ra'de.wav,xavante_renamed/ĩ'ra'de.wav,data/converted_audio/xavante/sd1775566716_2.wav,ĩ'ra'de
+zeA.wav,xavante_renamed/zeA.wav,data/converted_audio/xavante/sd1775566717_1.wav,ze a
+zeA.wav,xavante_renamed/zeA.wav,data/converted_audio/xavante/sd1775566717_2.wav,ze a
+sapo'o.wav,xavante_renamed/sapo'o.wav,data/converted_audio/xavante/sd1775566718_1.wav,sapo'o
+sapo'o.wav,xavante_renamed/sapo'o.wav,data/converted_audio/xavante/sd1775566718_2.wav,sapo'o
+upsõna.wav,xavante_renamed/upsõna.wav,data/converted_audio/xavante/sd1775566719_1.wav,upsõna
+upsõna.wav,xavante_renamed/upsõna.wav,data/converted_audio/xavante/sd1775566719_2.wav,upsõna
+siheri.wav,xavante_renamed/siheri.wav,data/converted_audio/xavante/sd1775566720_1.wav,siheri
+siheri.wav,xavante_renamed/siheri.wav,data/converted_audio/xavante/sd1775566720_2.wav,siheri
+atema.wav,xavante_renamed/atema.wav,data/converted_audio/xavante/sd1775566721_1.wav,atema
+atema.wav,xavante_renamed/atema.wav,data/converted_audio/xavante/sd1775566721_2.wav,atema
+wapsa'u.wav,xavante_renamed/wapsa'u.wav,data/converted_audio/xavante/sd1775566722_1.wav,wapsa'u
+wapsa'u.wav,xavante_renamed/wapsa'u.wav,data/converted_audio/xavante/sd1775566722_2.wav,wapsa'u
+si'wawẽ.wav,xavante_renamed/si'wawẽ.wav,data/converted_audio/xavante/sd1775566723_1.wav,si'wawẽ
+si'wawẽ.wav,xavante_renamed/si'wawẽ.wav,data/converted_audio/xavante/sd1775566723_2.wav,si'wawẽ
+da'ra.wav,xavante_renamed/da'ra.wav,data/converted_audio/xavante/sd1775566724_1.wav,da'ra
+da'ra.wav,xavante_renamed/da'ra.wav,data/converted_audio/xavante/sd1775566724_2.wav,da'ra
+waptuna.wav,xavante_renamed/waptuna.wav,data/converted_audio/xavante/sd1775566725_1.wav,waptuna
+waptuna.wav,xavante_renamed/waptuna.wav,data/converted_audio/xavante/sd1775566725_2.wav,waptuna
+da'parahi.wav,xavante_renamed/da'parahi.wav,data/converted_audio/xavante/sd1775566726_1.wav,da'parahi
+da'parahi.wav,xavante_renamed/da'parahi.wav,data/converted_audio/xavante/sd1775566726_2.wav,da'parahi
+da'mori.wav,xavante_renamed/da'mori.wav,data/converted_audio/xavante/sd1775566727_1.wav,da'mori
+da'mori.wav,xavante_renamed/da'mori.wav,data/converted_audio/xavante/sd1775566727_2.wav,da'mori
+i'rudu.wav,xavante_renamed/i'rudu.wav,data/converted_audio/xavante/sd1775566728_1.wav,i'rudu
+i'rudu.wav,xavante_renamed/i'rudu.wav,data/converted_audio/xavante/sd1775566728_2.wav,i'rudu
+mara.wav,xavante_renamed/mara.wav,data/converted_audio/xavante/sd1775566729_1.wav,mara
+mara.wav,xavante_renamed/mara.wav,data/converted_audio/xavante/sd1775566729_2.wav,mara
+daMana.wav,xavante_renamed/daMana.wav,data/converted_audio/xavante/sd1775566730_1.wav,da mana
+daMana.wav,xavante_renamed/daMana.wav,data/converted_audio/xavante/sd1775566730_2.wav,da mana
+romnhi.wav,xavante_renamed/romnhi.wav,data/converted_audio/xavante/sd1775566731_1.wav,romnhi
+romnhi.wav,xavante_renamed/romnhi.wav,data/converted_audio/xavante/sd1775566731_2.wav,romnhi
+daNhanahi.wav,xavante_renamed/daNhanahi.wav,data/converted_audio/xavante/sd1775566732_1.wav,da nhanahi
+daNhanahi.wav,xavante_renamed/daNhanahi.wav,data/converted_audio/xavante/sd1775566732_2.wav,da nhanahi
+da'u.wav,xavante_renamed/da'u.wav,data/converted_audio/xavante/sd1775566733_1.wav,da'u
+da'u.wav,xavante_renamed/da'u.wav,data/converted_audio/xavante/sd1775566733_2.wav,da'u
+ahemhe.wav,xavante_renamed/ahemhe.wav,data/converted_audio/xavante/sd1775566734_1.wav,ahemhe
+ahemhe.wav,xavante_renamed/ahemhe.wav,data/converted_audio/xavante/sd1775566734_2.wav,ahemhe
+sapõnĩ.wav,xavante_renamed/sapõnĩ.wav,data/converted_audio/xavante/sd1775566735_1.wav,sapõnĩ
+sapõnĩ.wav,xavante_renamed/sapõnĩ.wav,data/converted_audio/xavante/sd1775566735_2.wav,sapõnĩ
+'samina.wav,xavante_renamed/'samina.wav,data/converted_audio/xavante/sd1775566736_1.wav,'samina
+'samina.wav,xavante_renamed/'samina.wav,data/converted_audio/xavante/sd1775566736_2.wav,'samina
+a'po.wav,xavante_renamed/a'po.wav,data/converted_audio/xavante/sd1775566737_1.wav,a'po
+a'po.wav,xavante_renamed/a'po.wav,data/converted_audio/xavante/sd1775566737_2.wav,a'po
+sazene.wav,xavante_renamed/sazene.wav,data/converted_audio/xavante/sd1775566738_1.wav,sazene
+sazene.wav,xavante_renamed/sazene.wav,data/converted_audio/xavante/sd1775566738_2.wav,sazene
+eri.wav,xavante_renamed/eri.wav,data/converted_audio/xavante/sd1775566739_1.wav,eri
+eri.wav,xavante_renamed/eri.wav,data/converted_audio/xavante/sd1775566739_2.wav,eri
+wa'pari.wav,xavante_renamed/wa'pari.wav,data/converted_audio/xavante/sd1775566740_1.wav,wa'pari
+wa'pari.wav,xavante_renamed/wa'pari.wav,data/converted_audio/xavante/sd1775566740_2.wav,wa'pari
+o.wav,xavante_renamed/o.wav,data/converted_audio/xavante/sd1775566741_1.wav,o
+o.wav,xavante_renamed/o.wav,data/converted_audio/xavante/sd1775566741_2.wav,o
+heiwahe.wav,xavante_renamed/heiwahe.wav,data/converted_audio/xavante/sd1775566742_1.wav,heiwahe
+heiwahe.wav,xavante_renamed/heiwahe.wav,data/converted_audio/xavante/sd1775566742_2.wav,heiwahe
+sõmri.wav,xavante_renamed/sõmri.wav,data/converted_audio/xavante/sd1775566743_1.wav,sõmri
+sõmri.wav,xavante_renamed/sõmri.wav,data/converted_audio/xavante/sd1775566743_2.wav,sõmri
+daZadazute.wav,xavante_renamed/daZadazute.wav,data/converted_audio/xavante/sd1775566744_1.wav,da zadazute
+daZadazute.wav,xavante_renamed/daZadazute.wav,data/converted_audio/xavante/sd1775566744_2.wav,da zadazute
+heiwa'a.wav,xavante_renamed/heiwa'a.wav,data/converted_audio/xavante/sd1775566745_1.wav,heiwa'a
+heiwa'a.wav,xavante_renamed/heiwa'a.wav,data/converted_audio/xavante/sd1775566745_2.wav,heiwa'a
+da'za'su.wav,xavante_renamed/da'za'su.wav,data/converted_audio/xavante/sd1775566746_1.wav,da'za'su
+da'za'su.wav,xavante_renamed/da'za'su.wav,data/converted_audio/xavante/sd1775566746_2.wav,da'za'su
+daDe.wav,xavante_renamed/daDe.wav,data/converted_audio/xavante/sd1775566747_1.wav,da de
+daDe.wav,xavante_renamed/daDe.wav,data/converted_audio/xavante/sd1775566747_2.wav,da de
+rob'raĩze.wav,xavante_renamed/rob'raĩze.wav,data/converted_audio/xavante/sd1775566748_1.wav,rob'raĩze
+rob'raĩze.wav,xavante_renamed/rob'raĩze.wav,data/converted_audio/xavante/sd1775566748_2.wav,rob'raĩze
+ĩwi.wav,xavante_renamed/ĩwi.wav,data/converted_audio/xavante/sd1775566749_1.wav,ĩwi
+ĩwi.wav,xavante_renamed/ĩwi.wav,data/converted_audio/xavante/sd1775566749_2.wav,ĩwi
+ĩsoru.wav,xavante_renamed/ĩsoru.wav,data/converted_audio/xavante/sd1775566750_1.wav,ĩsoru
+ĩsoru.wav,xavante_renamed/ĩsoru.wav,data/converted_audio/xavante/sd1775566750_2.wav,ĩsoru
+da'a.wav,xavante_renamed/da'a.wav,data/converted_audio/xavante/sd1775566751_1.wav,da'a
+da'a.wav,xavante_renamed/da'a.wav,data/converted_audio/xavante/sd1775566751_2.wav,da'a
+daZadapta.wav,xavante_renamed/daZadapta.wav,data/converted_audio/xavante/sd1775566752_1.wav,da zadapta
+daZadapta.wav,xavante_renamed/daZadapta.wav,data/converted_audio/xavante/sd1775566752_2.wav,da zadapta
+taiwaipo.wav,xavante_renamed/taiwaipo.wav,data/converted_audio/xavante/sd1775566753_1.wav,taiwaipo
+taiwaipo.wav,xavante_renamed/taiwaipo.wav,data/converted_audio/xavante/sd1775566753_2.wav,taiwaipo
+daWa'ridi.wav,xavante_renamed/daWa'ridi.wav,data/converted_audio/xavante/sd1775566754_1.wav,da wa'ridi
+daWa'ridi.wav,xavante_renamed/daWa'ridi.wav,data/converted_audio/xavante/sd1775566754_2.wav,da wa'ridi
+si'a're.wav,xavante_renamed/si'a're.wav,data/converted_audio/xavante/sd1775566755_1.wav,si'a're
+si'a're.wav,xavante_renamed/si'a're.wav,data/converted_audio/xavante/sd1775566755_2.wav,si'a're
+da'tõmo.wav,xavante_renamed/da'tõmo.wav,data/converted_audio/xavante/sd1775566756_1.wav,da'tõmo
+da'tõmo.wav,xavante_renamed/da'tõmo.wav,data/converted_audio/xavante/sd1775566756_2.wav,da'tõmo
+dezdeco'obzuri.wav,xavante_renamed/dezdeco'obzuri.wav,data/converted_audio/xavante/sd1775566757_1.wav,dezdeco'obzuri
+dezdeco'obzuri.wav,xavante_renamed/dezdeco'obzuri.wav,data/converted_audio/xavante/sd1775566757_2.wav,dezdeco'obzuri
+rob'raĩwarĩrĩze.wav,xavante_renamed/rob'raĩwarĩrĩze.wav,data/converted_audio/xavante/sd1775566758_1.wav,rob'raĩwarĩrĩze
+rob'raĩwarĩrĩze.wav,xavante_renamed/rob'raĩwarĩrĩze.wav,data/converted_audio/xavante/sd1775566758_2.wav,rob'raĩwarĩrĩze
+wanũnĩ.wav,xavante_renamed/wanũnĩ.wav,data/converted_audio/xavante/sd1775566759_1.wav,wanũnĩ
+wanũnĩ.wav,xavante_renamed/wanũnĩ.wav,data/converted_audio/xavante/sd1775566759_2.wav,wanũnĩ
+ta.wav,xavante_renamed/ta.wav,data/converted_audio/xavante/sd1775566760_1.wav,ta
+ta.wav,xavante_renamed/ta.wav,data/converted_audio/xavante/sd1775566760_2.wav,ta
+aimawi.wav,xavante_renamed/aimawi.wav,data/converted_audio/xavante/sd1775566761_1.wav,aimawi
+aimawi.wav,xavante_renamed/aimawi.wav,data/converted_audio/xavante/sd1775566761_2.wav,aimawi
+aha.wav,xavante_renamed/aha.wav,data/converted_audio/xavante/sd1775566762_1.wav,aha
+aha.wav,xavante_renamed/aha.wav,data/converted_audio/xavante/sd1775566762_2.wav,aha
+ĩ'uzepe.wav,xavante_renamed/ĩ'uzepe.wav,data/converted_audio/xavante/sd1775566763_1.wav,ĩ'uzepe
+ĩ'uzepe.wav,xavante_renamed/ĩ'uzepe.wav,data/converted_audio/xavante/sd1775566763_2.wav,ĩ'uzepe
+dazepte.wav,xavante_renamed/dazepte.wav,data/converted_audio/xavante/sd1775566764_1.wav,dazepte
+dazepte.wav,xavante_renamed/dazepte.wav,data/converted_audio/xavante/sd1775566764_2.wav,dazepte
+danho'ru.wav,xavante_renamed/danho'ru.wav,data/converted_audio/xavante/sd1775566765_1.wav,danho'ru
+danho'ru.wav,xavante_renamed/danho'ru.wav,data/converted_audio/xavante/sd1775566765_2.wav,danho'ru
+wedehe.wav,xavante_renamed/wedehe.wav,data/converted_audio/xavante/sd1775566766_1.wav,wedehe
+wedehe.wav,xavante_renamed/wedehe.wav,data/converted_audio/xavante/sd1775566766_2.wav,wedehe
+da're'dum'ho.wav,xavante_renamed/da're'dum'ho.wav,data/converted_audio/xavante/sd1775566767_1.wav,da're'dum'ho
+da're'dum'ho.wav,xavante_renamed/da're'dum'ho.wav,data/converted_audio/xavante/sd1775566767_2.wav,da're'dum'ho
+wa'ĩni.wav,xavante_renamed/wa'ĩni.wav,data/converted_audio/xavante/sd1775566768_1.wav,wa'ĩni
+wa'ĩni.wav,xavante_renamed/wa'ĩni.wav,data/converted_audio/xavante/sd1775566768_2.wav,wa'ĩni
+daHe.wav,xavante_renamed/daHe.wav,data/converted_audio/xavante/sd1775566769_1.wav,da he
+daHe.wav,xavante_renamed/daHe.wav,data/converted_audio/xavante/sd1775566769_2.wav,da he
+deidawanhi'pi.wav,xavante_renamed/deidawanhi'pi.wav,data/converted_audio/xavante/sd1775566770_1.wav,deidawanhi'pi
+deidawanhi'pi.wav,xavante_renamed/deidawanhi'pi.wav,data/converted_audio/xavante/sd1775566770_2.wav,deidawanhi'pi
+a're.wav,xavante_renamed/a're.wav,data/converted_audio/xavante/sd1775566771_1.wav,a're
+a're.wav,xavante_renamed/a're.wav,data/converted_audio/xavante/sd1775566771_2.wav,a're
+sanha.wav,xavante_renamed/sanha.wav,data/converted_audio/xavante/sd1775566772_1.wav,sanha
+sanha.wav,xavante_renamed/sanha.wav,data/converted_audio/xavante/sd1775566772_2.wav,sanha
+rowaze.wav,xavante_renamed/rowaze.wav,data/converted_audio/xavante/sd1775566773_1.wav,rowaze
+rowaze.wav,xavante_renamed/rowaze.wav,data/converted_audio/xavante/sd1775566773_2.wav,rowaze
+daNa're'to.wav,xavante_renamed/daNa're'to.wav,data/converted_audio/xavante/sd1775566774_1.wav,da na're'to
+daNa're'to.wav,xavante_renamed/daNa're'to.wav,data/converted_audio/xavante/sd1775566774_2.wav,da na're'to
+maweAimasisi.wav,xavante_renamed/maweAimasisi.wav,data/converted_audio/xavante/sd1775566775_1.wav,mawe aimasisi
+maweAimasisi.wav,xavante_renamed/maweAimasisi.wav,data/converted_audio/xavante/sd1775566775_2.wav,mawe aimasisi
+daNhamraze.wav,xavante_renamed/daNhamraze.wav,data/converted_audio/xavante/sd1775566776_1.wav,da nhamraze
+daNhamraze.wav,xavante_renamed/daNhamraze.wav,data/converted_audio/xavante/sd1775566776_2.wav,da nhamraze
+ẽne.wav,xavante_renamed/ẽne.wav,data/converted_audio/xavante/sd1775566777_1.wav,ẽne
+ẽne.wav,xavante_renamed/ẽne.wav,data/converted_audio/xavante/sd1775566777_2.wav,ẽne
+paranhipo.wav,xavante_renamed/paranhipo.wav,data/converted_audio/xavante/sd1775566778_1.wav,paranhipo
+paranhipo.wav,xavante_renamed/paranhipo.wav,data/converted_audio/xavante/sd1775566778_2.wav,paranhipo
+waha.wav,xavante_renamed/waha.wav,data/converted_audio/xavante/sd1775566779_1.wav,waha
+waha.wav,xavante_renamed/waha.wav,data/converted_audio/xavante/sd1775566779_2.wav,waha
+abazezere.wav,xavante_renamed/abazezere.wav,data/converted_audio/xavante/sd1775566780_1.wav,abazezere
+abazezere.wav,xavante_renamed/abazezere.wav,data/converted_audio/xavante/sd1775566780_2.wav,abazezere
+da'para.wav,xavante_renamed/da'para.wav,data/converted_audio/xavante/sd1775566781_1.wav,da'para
+da'para.wav,xavante_renamed/da'para.wav,data/converted_audio/xavante/sd1775566781_2.wav,da'para
+tirito.wav,xavante_renamed/tirito.wav,data/converted_audio/xavante/sd1775566782_1.wav,tirito
+tirito.wav,xavante_renamed/tirito.wav,data/converted_audio/xavante/sd1775566782_2.wav,tirito
+wesuira.wav,xavante_renamed/wesuira.wav,data/converted_audio/xavante/sd1775566783_1.wav,wesuira
+wesuira.wav,xavante_renamed/wesuira.wav,data/converted_audio/xavante/sd1775566783_2.wav,wesuira
+daHi.wav,xavante_renamed/daHi.wav,data/converted_audio/xavante/sd1775566784_1.wav,da hi
+daHi.wav,xavante_renamed/daHi.wav,data/converted_audio/xavante/sd1775566784_2.wav,da hi
+a'pa.wav,xavante_renamed/a'pa.wav,data/converted_audio/xavante/sd1775566785_1.wav,a'pa
+a'pa.wav,xavante_renamed/a'pa.wav,data/converted_audio/xavante/sd1775566785_2.wav,a'pa
+sasuru.wav,xavante_renamed/sasuru.wav,data/converted_audio/xavante/sd1775566786_1.wav,sasuru
+sasuru.wav,xavante_renamed/sasuru.wav,data/converted_audio/xavante/sd1775566786_2.wav,sasuru
+daZa'su.wav,xavante_renamed/daZa'su.wav,data/converted_audio/xavante/sd1775566787_1.wav,da za'su
+daZa'su.wav,xavante_renamed/daZa'su.wav,data/converted_audio/xavante/sd1775566787_2.wav,da za'su
+dasa.wav,xavante_renamed/dasa.wav,data/converted_audio/xavante/sd1775566788_1.wav,dasa
+dasa.wav,xavante_renamed/dasa.wav,data/converted_audio/xavante/sd1775566788_2.wav,dasa
+toibeParipsi.wav,xavante_renamed/toibeParipsi.wav,data/converted_audio/xavante/sd1775566789_1.wav,toibe paripsi
+toibeParipsi.wav,xavante_renamed/toibeParipsi.wav,data/converted_audio/xavante/sd1775566789_2.wav,toibe paripsi
+uze.wav,xavante_renamed/uze.wav,data/converted_audio/xavante/sd1775566790_1.wav,uze
+uze.wav,xavante_renamed/uze.wav,data/converted_audio/xavante/sd1775566790_2.wav,uze
+robZapru.wav,xavante_renamed/robZapru.wav,data/converted_audio/xavante/sd1775566791_1.wav,rob zapru
+robZapru.wav,xavante_renamed/robZapru.wav,data/converted_audio/xavante/sd1775566791_2.wav,rob zapru
+amiro.wav,xavante_renamed/amiro.wav,data/converted_audio/xavante/sd1775566792_1.wav,amiro
+amiro.wav,xavante_renamed/amiro.wav,data/converted_audio/xavante/sd1775566792_2.wav,amiro
+wasi.wav,xavante_renamed/wasi.wav,data/converted_audio/xavante/sd1775566793_1.wav,wasi
+wasi.wav,xavante_renamed/wasi.wav,data/converted_audio/xavante/sd1775566793_2.wav,wasi
+daPẽ.wav,xavante_renamed/daPẽ.wav,data/converted_audio/xavante/sd1775566794_1.wav,da pẽ
+daPẽ.wav,xavante_renamed/daPẽ.wav,data/converted_audio/xavante/sd1775566794_2.wav,da pẽ
+paihi.wav,xavante_renamed/paihi.wav,data/converted_audio/xavante/sd1775566795_1.wav,paihi
+paihi.wav,xavante_renamed/paihi.wav,data/converted_audio/xavante/sd1775566795_2.wav,paihi
+ĩsido'to.wav,xavante_renamed/ĩsido'to.wav,data/converted_audio/xavante/sd1775566796_1.wav,ĩsido'to
+ĩsido'to.wav,xavante_renamed/ĩsido'to.wav,data/converted_audio/xavante/sd1775566796_2.wav,ĩsido'to
+ĩ'raihe.wav,xavante_renamed/ĩ'raihe.wav,data/converted_audio/xavante/sd1775566797_1.wav,ĩ'raihe
+ĩ'raihe.wav,xavante_renamed/ĩ'raihe.wav,data/converted_audio/xavante/sd1775566797_2.wav,ĩ'raihe
+abazeihe.wav,xavante_renamed/abazeihe.wav,data/converted_audio/xavante/sd1775566798_1.wav,abazeihe
+abazeihe.wav,xavante_renamed/abazeihe.wav,data/converted_audio/xavante/sd1775566798_2.wav,abazeihe
+oro.wav,xavante_renamed/oro.wav,data/converted_audio/xavante/sd1775566799_1.wav,oro
+oro.wav,xavante_renamed/oro.wav,data/converted_audio/xavante/sd1775566799_2.wav,oro
+maApsaihu.wav,xavante_renamed/maApsaihu.wav,data/converted_audio/xavante/sd1775566800_1.wav,ma apsaihu
+maApsaihu.wav,xavante_renamed/maApsaihu.wav,data/converted_audio/xavante/sd1775566800_2.wav,ma apsaihu
+za'ẽne.wav,xavante_renamed/za'ẽne.wav,data/converted_audio/xavante/sd1775566801_1.wav,za'ẽne
+za'ẽne.wav,xavante_renamed/za'ẽne.wav,data/converted_audio/xavante/sd1775566801_2.wav,za'ẽne
+mazeptere.wav,xavante_renamed/mazeptere.wav,data/converted_audio/xavante/sd1775566802_1.wav,mazeptere
+mazeptere.wav,xavante_renamed/mazeptere.wav,data/converted_audio/xavante/sd1775566802_2.wav,mazeptere
+abazehei'ba.wav,xavante_renamed/abazehei'ba.wav,data/converted_audio/xavante/sd1775566803_1.wav,abazehei'ba
+abazehei'ba.wav,xavante_renamed/abazehei'ba.wav,data/converted_audio/xavante/sd1775566803_2.wav,abazehei'ba
+wede.wav,xavante_renamed/wede.wav,data/converted_audio/xavante/sd1775566804_1.wav,wede
+wede.wav,xavante_renamed/wede.wav,data/converted_audio/xavante/sd1775566804_2.wav,wede
+romisede.wav,xavante_renamed/romisede.wav,data/converted_audio/xavante/sd1775566805_1.wav,romisede
+romisede.wav,xavante_renamed/romisede.wav,data/converted_audio/xavante/sd1775566805_2.wav,romisede
+dawaihi.wav,xavante_renamed/dawaihi.wav,data/converted_audio/xavante/sd1775566806_1.wav,dawaihi
+dawaihi.wav,xavante_renamed/dawaihi.wav,data/converted_audio/xavante/sd1775566806_2.wav,dawaihi
+dasawanĩnĩze.wav,xavante_renamed/dasawanĩnĩze.wav,data/converted_audio/xavante/sd1775566807_1.wav,dasawanĩnĩze
+dasawanĩnĩze.wav,xavante_renamed/dasawanĩnĩze.wav,data/converted_audio/xavante/sd1775566807_2.wav,dasawanĩnĩze
+i'uwa.wav,xavante_renamed/i'uwa.wav,data/converted_audio/xavante/sd1775566808_1.wav,i'uwa
+i'uwa.wav,xavante_renamed/i'uwa.wav,data/converted_audio/xavante/sd1775566808_2.wav,i'uwa
+ubu.wav,xavante_renamed/ubu.wav,data/converted_audio/xavante/sd1775566809_1.wav,ubu
+ubu.wav,xavante_renamed/ubu.wav,data/converted_audio/xavante/sd1775566809_2.wav,ubu
+ĩwẽ.wav,xavante_renamed/ĩwẽ.wav,data/converted_audio/xavante/sd1775566810_1.wav,ĩwẽ
+ĩwẽ.wav,xavante_renamed/ĩwẽ.wav,data/converted_audio/xavante/sd1775566810_2.wav,ĩwẽ
+abaze.wav,xavante_renamed/abaze.wav,data/converted_audio/xavante/sd1775566811_1.wav,abaze
+abaze.wav,xavante_renamed/abaze.wav,data/converted_audio/xavante/sd1775566811_2.wav,abaze
+hedi.wav,xavante_renamed/hedi.wav,data/converted_audio/xavante/sd1775566812_1.wav,hedi
+hedi.wav,xavante_renamed/hedi.wav,data/converted_audio/xavante/sd1775566812_2.wav,hedi
+daSihe.wav,xavante_renamed/daSihe.wav,data/converted_audio/xavante/sd1775566813_1.wav,da sihe
+daSihe.wav,xavante_renamed/daSihe.wav,data/converted_audio/xavante/sd1775566813_2.wav,da sihe
+ĩsapo.wav,xavante_renamed/ĩsapo.wav,data/converted_audio/xavante/sd1775566814_1.wav,ĩsapo
+ĩsapo.wav,xavante_renamed/ĩsapo.wav,data/converted_audio/xavante/sd1775566814_2.wav,ĩsapo
+ĩheipe.wav,xavante_renamed/ĩheipe.wav,data/converted_audio/xavante/sd1775566815_1.wav,ĩheipe
+ĩheipe.wav,xavante_renamed/ĩheipe.wav,data/converted_audio/xavante/sd1775566815_2.wav,ĩheipe
+heiwa.wav,xavante_renamed/heiwa.wav,data/converted_audio/xavante/sd1775566816_1.wav,heiwa
+heiwa.wav,xavante_renamed/heiwa.wav,data/converted_audio/xavante/sd1775566816_2.wav,heiwa
+heiwidasima'wara.wav,xavante_renamed/heiwidasima'wara.wav,data/converted_audio/xavante/sd1775566817_1.wav,heiwidasima'wara
+heiwidasima'wara.wav,xavante_renamed/heiwidasima'wara.wav,data/converted_audio/xavante/sd1775566817_2.wav,heiwidasima'wara
+daPaihizere.wav,xavante_renamed/daPaihizere.wav,data/converted_audio/xavante/sd1775566818_1.wav,da paihizere
+daPaihizere.wav,xavante_renamed/daPaihizere.wav,data/converted_audio/xavante/sd1775566818_2.wav,da paihizere
+da'upse.wav,xavante_renamed/da'upse.wav,data/converted_audio/xavante/sd1775566819_1.wav,da'upse
+da'upse.wav,xavante_renamed/da'upse.wav,data/converted_audio/xavante/sd1775566819_2.wav,da'upse
+'rowi.wav,xavante_renamed/'rowi.wav,data/converted_audio/xavante/sd1775566820_1.wav,'rowi
+'rowi.wav,xavante_renamed/'rowi.wav,data/converted_audio/xavante/sd1775566820_2.wav,'rowi
+i'tede.wav,xavante_renamed/i'tede.wav,data/converted_audio/xavante/sd1775566821_1.wav,i'tede
+i'tede.wav,xavante_renamed/i'tede.wav,data/converted_audio/xavante/sd1775566821_2.wav,i'tede
+daIo'ri're.wav,xavante_renamed/daIo'ri're.wav,data/converted_audio/xavante/sd1775566822_1.wav,da io'ri're
+daIo'ri're.wav,xavante_renamed/daIo'ri're.wav,data/converted_audio/xavante/sd1775566822_2.wav,da io'ri're
+daNhise.wav,xavante_renamed/daNhise.wav,data/converted_audio/xavante/sd1775566823_1.wav,da nhise
+daNhise.wav,xavante_renamed/daNhise.wav,data/converted_audio/xavante/sd1775566823_2.wav,da nhise
+danhipi.wav,xavante_renamed/danhipi.wav,data/converted_audio/xavante/sd1775566824_1.wav,danhipi
+danhipi.wav,xavante_renamed/danhipi.wav,data/converted_audio/xavante/sd1775566824_2.wav,danhipi
+zata.wav,xavante_renamed/zata.wav,data/converted_audio/xavante/sd1775566825_1.wav,zata
+zata.wav,xavante_renamed/zata.wav,data/converted_audio/xavante/sd1775566825_2.wav,zata
+wa'u.wav,xavante_renamed/wa'u.wav,data/converted_audio/xavante/sd1775566826_1.wav,wa'u
+wa'u.wav,xavante_renamed/wa'u.wav,data/converted_audio/xavante/sd1775566826_2.wav,wa'u
+irĩsa'ẽne.wav,xavante_renamed/irĩsa'ẽne.wav,data/converted_audio/xavante/sd1775566827_1.wav,irĩsa'ẽne
+irĩsa'ẽne.wav,xavante_renamed/irĩsa'ẽne.wav,data/converted_audio/xavante/sd1775566827_2.wav,irĩsa'ẽne
+da'more.wav,xavante_renamed/da'more.wav,data/converted_audio/xavante/sd1775566828_1.wav,da'more
+da'more.wav,xavante_renamed/da'more.wav,data/converted_audio/xavante/sd1775566828_2.wav,da'more
+ĩwai'po.wav,xavante_renamed/ĩwai'po.wav,data/converted_audio/xavante/sd1775566829_1.wav,ĩwai'po
+ĩwai'po.wav,xavante_renamed/ĩwai'po.wav,data/converted_audio/xavante/sd1775566829_2.wav,ĩwai'po
+aNorĩWa'waHa.wav,xavante_renamed/aNorĩWa'waHa.wav,data/converted_audio/xavante/sd1775566830_1.wav,a norĩ wa'wa ha
+aNorĩWa'waHa.wav,xavante_renamed/aNorĩWa'waHa.wav,data/converted_audio/xavante/sd1775566830_2.wav,a norĩ wa'wa ha
+daNho'o.wav,xavante_renamed/daNho'o.wav,data/converted_audio/xavante/sd1775566831_1.wav,da nho'o
+daNho'o.wav,xavante_renamed/daNho'o.wav,data/converted_audio/xavante/sd1775566831_2.wav,da nho'o
+daWapru.wav,xavante_renamed/daWapru.wav,data/converted_audio/xavante/sd1775566832_1.wav,da wapru
+daWapru.wav,xavante_renamed/daWapru.wav,data/converted_audio/xavante/sd1775566832_2.wav,da wapru
+daZaihe.wav,xavante_renamed/daZaihe.wav,data/converted_audio/xavante/sd1775566833_1.wav,da zaihe
+daZaihe.wav,xavante_renamed/daZaihe.wav,data/converted_audio/xavante/sd1775566833_2.wav,da zaihe
+bededi.wav,xavante_renamed/bededi.wav,data/converted_audio/xavante/sd1775566834_1.wav,bededi
+bededi.wav,xavante_renamed/bededi.wav,data/converted_audio/xavante/sd1775566834_2.wav,bededi
+daNhamra.wav,xavante_renamed/daNhamra.wav,data/converted_audio/xavante/sd1775566835_1.wav,da nhamra
+daNhamra.wav,xavante_renamed/daNhamra.wav,data/converted_audio/xavante/sd1775566835_2.wav,da nhamra
+ĩtede.wav,xavante_renamed/ĩtede.wav,data/converted_audio/xavante/sd1775566836_1.wav,ĩtede
+ĩtede.wav,xavante_renamed/ĩtede.wav,data/converted_audio/xavante/sd1775566836_2.wav,ĩtede
+ori.wav,xavante_renamed/ori.wav,data/converted_audio/xavante/sd1775566837_1.wav,ori
+ori.wav,xavante_renamed/ori.wav,data/converted_audio/xavante/sd1775566837_2.wav,ori
+romanhariwasede.wav,xavante_renamed/romanhariwasede.wav,data/converted_audio/xavante/sd1775566838_1.wav,romanhariwasede
+romanhariwasede.wav,xavante_renamed/romanhariwasede.wav,data/converted_audio/xavante/sd1775566838_2.wav,romanhariwasede
+du'wa'a.wav,xavante_renamed/du'wa'a.wav,data/converted_audio/xavante/sd1775566839_1.wav,du'wa'a
+du'wa'a.wav,xavante_renamed/du'wa'a.wav,data/converted_audio/xavante/sd1775566839_2.wav,du'wa'a
+anhiheri.wav,xavante_renamed/anhiheri.wav,data/converted_audio/xavante/sd1775566840_1.wav,anhiheri
+anhiheri.wav,xavante_renamed/anhiheri.wav,data/converted_audio/xavante/sd1775566840_2.wav,anhiheri
+si'odo.wav,xavante_renamed/si'odo.wav,data/converted_audio/xavante/sd1775566841_1.wav,si'odo
+si'odo.wav,xavante_renamed/si'odo.wav,data/converted_audio/xavante/sd1775566841_2.wav,si'odo
+u'mre'ri'o.wav,xavante_renamed/u'mre'ri'o.wav,data/converted_audio/xavante/sd1775566842_1.wav,u'mre'ri'o
+u'mre'ri'o.wav,xavante_renamed/u'mre'ri'o.wav,data/converted_audio/xavante/sd1775566842_2.wav,u'mre'ri'o
+daPẽ'ẽzanĩ.wav,xavante_renamed/daPẽ'ẽzanĩ.wav,data/converted_audio/xavante/sd1775566843_1.wav,da pẽ'ẽzanĩ
+daPẽ'ẽzanĩ.wav,xavante_renamed/daPẽ'ẽzanĩ.wav,data/converted_audio/xavante/sd1775566843_2.wav,da pẽ'ẽzanĩ
+sa'rada.wav,xavante_renamed/sa'rada.wav,data/converted_audio/xavante/sd1775566844_1.wav,sa'rada
+sa'rada.wav,xavante_renamed/sa'rada.wav,data/converted_audio/xavante/sd1775566844_2.wav,sa'rada
+daNhe'brada.wav,xavante_renamed/daNhe'brada.wav,data/converted_audio/xavante/sd1775566845_1.wav,da nhe'brada
+daNhe'brada.wav,xavante_renamed/daNhe'brada.wav,data/converted_audio/xavante/sd1775566845_2.wav,da nhe'brada
+ĩ'uze.wav,xavante_renamed/ĩ'uze.wav,data/converted_audio/xavante/sd1775566846_1.wav,ĩ'uze
+ĩ'uze.wav,xavante_renamed/ĩ'uze.wav,data/converted_audio/xavante/sd1775566846_2.wav,ĩ'uze
+ĩsadaipro.wav,xavante_renamed/ĩsadaipro.wav,data/converted_audio/xavante/sd1775566847_1.wav,ĩsadaipro
+ĩsadaipro.wav,xavante_renamed/ĩsadaipro.wav,data/converted_audio/xavante/sd1775566847_2.wav,ĩsadaipro
+daPo'repu.wav,xavante_renamed/daPo'repu.wav,data/converted_audio/xavante/sd1775566848_1.wav,da po'repu
+daPo'repu.wav,xavante_renamed/daPo'repu.wav,data/converted_audio/xavante/sd1775566848_2.wav,da po'repu
+ĩ'ro.wav,xavante_renamed/ĩ'ro.wav,data/converted_audio/xavante/sd1775566849_1.wav,ĩ'ro
+ĩ'ro.wav,xavante_renamed/ĩ'ro.wav,data/converted_audio/xavante/sd1775566849_2.wav,ĩ'ro
+da'uiheiwadu.wav,xavante_renamed/da'uiheiwadu.wav,data/converted_audio/xavante/sd1775566850_1.wav,da'uiheiwadu
+da'uiheiwadu.wav,xavante_renamed/da'uiheiwadu.wav,data/converted_audio/xavante/sd1775566850_2.wav,da'uiheiwadu
+sa'dari.wav,xavante_renamed/sa'dari.wav,data/converted_audio/xavante/sd1775566851_1.wav,sa'dari
+sa'dari.wav,xavante_renamed/sa'dari.wav,data/converted_audio/xavante/sd1775566851_2.wav,sa'dari
+sise.wav,xavante_renamed/sise.wav,data/converted_audio/xavante/sd1775566852_1.wav,sise
+sise.wav,xavante_renamed/sise.wav,data/converted_audio/xavante/sd1775566852_2.wav,sise
+ĩpa.wav,xavante_renamed/ĩpa.wav,data/converted_audio/xavante/sd1775566853_1.wav,ĩpa
+ĩpa.wav,xavante_renamed/ĩpa.wav,data/converted_audio/xavante/sd1775566853_2.wav,ĩpa
+wasisi.wav,xavante_renamed/wasisi.wav,data/converted_audio/xavante/sd1775566854_1.wav,wasisi
+wasisi.wav,xavante_renamed/wasisi.wav,data/converted_audio/xavante/sd1775566854_2.wav,wasisi
+ĩheiwazu.wav,xavante_renamed/ĩheiwazu.wav,data/converted_audio/xavante/sd1775566855_1.wav,ĩheiwazu
+ĩheiwazu.wav,xavante_renamed/ĩheiwazu.wav,data/converted_audio/xavante/sd1775566855_2.wav,ĩheiwazu
+ti'a.wav,xavante_renamed/ti'a.wav,data/converted_audio/xavante/sd1775566856_1.wav,ti'a
+ti'a.wav,xavante_renamed/ti'a.wav,data/converted_audio/xavante/sd1775566856_2.wav,ti'a
+ĩsa'ẽne.wav,xavante_renamed/ĩsa'ẽne.wav,data/converted_audio/xavante/sd1775566857_1.wav,ĩsa'ẽne
+ĩsa'ẽne.wav,xavante_renamed/ĩsa'ẽne.wav,data/converted_audio/xavante/sd1775566857_2.wav,ĩsa'ẽne
+ĩhe.wav,xavante_renamed/ĩhe.wav,data/converted_audio/xavante/sd1775566858_1.wav,ĩhe
+ĩhe.wav,xavante_renamed/ĩhe.wav,data/converted_audio/xavante/sd1775566858_2.wav,ĩhe
+ĩware.wav,xavante_renamed/ĩware.wav,data/converted_audio/xavante/sd1775566859_1.wav,ĩware
+ĩware.wav,xavante_renamed/ĩware.wav,data/converted_audio/xavante/sd1775566859_2.wav,ĩware
+arobo.wav,xavante_renamed/arobo.wav,data/converted_audio/xavante/sd1775566860_1.wav,arobo
+arobo.wav,xavante_renamed/arobo.wav,data/converted_audio/xavante/sd1775566860_2.wav,arobo
+ai'parana.wav,xavante_renamed/ai'parana.wav,data/converted_audio/xavante/sd1775566861_1.wav,ai'parana
+ai'parana.wav,xavante_renamed/ai'parana.wav,data/converted_audio/xavante/sd1775566861_2.wav,ai'parana
+hu.wav,xavante_renamed/hu.wav,data/converted_audio/xavante/sd1775566862_1.wav,hu
+hu.wav,xavante_renamed/hu.wav,data/converted_audio/xavante/sd1775566862_2.wav,hu
+si.wav,xavante_renamed/si.wav,data/converted_audio/xavante/sd1775566863_1.wav,si
+si.wav,xavante_renamed/si.wav,data/converted_audio/xavante/sd1775566863_2.wav,si
+aba'wa.wav,xavante_renamed/aba'wa.wav,data/converted_audio/xavante/sd1775566864_1.wav,aba'wa
+aba'wa.wav,xavante_renamed/aba'wa.wav,data/converted_audio/xavante/sd1775566864_2.wav,aba'wa
+ĩhire.wav,xavante_renamed/ĩhire.wav,data/converted_audio/xavante/sd1775566865_1.wav,ĩhire
+ĩhire.wav,xavante_renamed/ĩhire.wav,data/converted_audio/xavante/sd1775566865_2.wav,ĩhire
+daWara.wav,xavante_renamed/daWara.wav,data/converted_audio/xavante/sd1775566866_1.wav,da wara
+daWara.wav,xavante_renamed/daWara.wav,data/converted_audio/xavante/sd1775566866_2.wav,da wara
+sib'a.wav,xavante_renamed/sib'a.wav,data/converted_audio/xavante/sd1775566867_1.wav,sib'a
+sib'a.wav,xavante_renamed/sib'a.wav,data/converted_audio/xavante/sd1775566867_2.wav,sib'a
+ĩ'a.wav,xavante_renamed/ĩ'a.wav,data/converted_audio/xavante/sd1775566868_1.wav,ĩ'a
+ĩ'a.wav,xavante_renamed/ĩ'a.wav,data/converted_audio/xavante/sd1775566868_2.wav,ĩ'a
+mawaptana.wav,xavante_renamed/mawaptana.wav,data/converted_audio/xavante/sd1775566869_1.wav,mawaptana
+mawaptana.wav,xavante_renamed/mawaptana.wav,data/converted_audio/xavante/sd1775566869_2.wav,mawaptana
+daHi'ra'ti.wav,xavante_renamed/daHi'ra'ti.wav,data/converted_audio/xavante/sd1775566870_1.wav,da hi'ra'ti
+daHi'ra'ti.wav,xavante_renamed/daHi'ra'ti.wav,data/converted_audio/xavante/sd1775566870_2.wav,da hi'ra'ti
+maweAihutu.wav,xavante_renamed/maweAihutu.wav,data/converted_audio/xavante/sd1775566871_1.wav,mawe aihutu
+maweAihutu.wav,xavante_renamed/maweAihutu.wav,data/converted_audio/xavante/sd1775566871_2.wav,mawe aihutu
+da'bu.wav,xavante_renamed/da'bu.wav,data/converted_audio/xavante/sd1775566872_1.wav,da'bu
+da'bu.wav,xavante_renamed/da'bu.wav,data/converted_audio/xavante/sd1775566872_2.wav,da'bu
+te'su.wav,xavante_renamed/te'su.wav,data/converted_audio/xavante/sd1775566873_1.wav,te'su
+te'su.wav,xavante_renamed/te'su.wav,data/converted_audio/xavante/sd1775566873_2.wav,te'su
+sai'uri.wav,xavante_renamed/sai'uri.wav,data/converted_audio/xavante/sd1775566874_1.wav,sai'uri
+sai'uri.wav,xavante_renamed/sai'uri.wav,data/converted_audio/xavante/sd1775566874_2.wav,sai'uri
+wi'uri.wav,xavante_renamed/wi'uri.wav,data/converted_audio/xavante/sd1775566875_1.wav,wi'uri
+wi'uri.wav,xavante_renamed/wi'uri.wav,data/converted_audio/xavante/sd1775566875_2.wav,wi'uri
+upazu.wav,xavante_renamed/upazu.wav,data/converted_audio/xavante/sd1775566876_1.wav,upazu
+upazu.wav,xavante_renamed/upazu.wav,data/converted_audio/xavante/sd1775566876_2.wav,upazu
+azeri.wav,xavante_renamed/azeri.wav,data/converted_audio/xavante/sd1775566877_1.wav,azeri
+azeri.wav,xavante_renamed/azeri.wav,data/converted_audio/xavante/sd1775566877_2.wav,azeri
+ireptõ.wav,xavante_renamed/ireptõ.wav,data/converted_audio/xavante/sd1775566878_1.wav,ireptõ
+ireptõ.wav,xavante_renamed/ireptõ.wav,data/converted_audio/xavante/sd1775566878_2.wav,ireptõ
+ĩnhama.wav,xavante_renamed/ĩnhama.wav,data/converted_audio/xavante/sd1775566879_1.wav,ĩnhama
+ĩnhama.wav,xavante_renamed/ĩnhama.wav,data/converted_audio/xavante/sd1775566879_2.wav,ĩnhama
+mazedi.wav,xavante_renamed/mazedi.wav,data/converted_audio/xavante/sd1775566880_1.wav,mazedi
+mazedi.wav,xavante_renamed/mazedi.wav,data/converted_audio/xavante/sd1775566880_2.wav,mazedi
+depsaihuri.wav,xavante_renamed/depsaihuri.wav,data/converted_audio/xavante/sd1775566881_1.wav,depsaihuri
+depsaihuri.wav,xavante_renamed/depsaihuri.wav,data/converted_audio/xavante/sd1775566881_2.wav,depsaihuri
+ĩahe.wav,xavante_renamed/ĩahe.wav,data/converted_audio/xavante/sd1775566882_1.wav,ĩahe
+ĩahe.wav,xavante_renamed/ĩahe.wav,data/converted_audio/xavante/sd1775566882_2.wav,ĩahe
+ĩro.wav,xavante_renamed/ĩro.wav,data/converted_audio/xavante/sd1775566883_1.wav,ĩro
+ĩro.wav,xavante_renamed/ĩro.wav,data/converted_audio/xavante/sd1775566883_2.wav,ĩro
+aiwahu'du.wav,xavante_renamed/aiwahu'du.wav,data/converted_audio/xavante/sd1775566884_1.wav,aiwahu'du
+aiwahu'du.wav,xavante_renamed/aiwahu'du.wav,data/converted_audio/xavante/sd1775566884_2.wav,aiwahu'du
+izari'bi.wav,xavante_renamed/izari'bi.wav,data/converted_audio/xavante/sd1775566885_1.wav,izari'bi
+izari'bi.wav,xavante_renamed/izari'bi.wav,data/converted_audio/xavante/sd1775566885_2.wav,izari'bi
+barana.wav,xavante_renamed/barana.wav,data/converted_audio/xavante/sd1775566886_1.wav,barana
+barana.wav,xavante_renamed/barana.wav,data/converted_audio/xavante/sd1775566886_2.wav,barana
+ĩ'made'e.wav,xavante_renamed/ĩ'made'e.wav,data/converted_audio/xavante/sd1775566887_1.wav,ĩ'made'e
+ĩ'made'e.wav,xavante_renamed/ĩ'made'e.wav,data/converted_audio/xavante/sd1775566887_2.wav,ĩ'made'e
+da'ba.wav,xavante_renamed/da'ba.wav,data/converted_audio/xavante/sd1775566888_1.wav,da'ba
+da'ba.wav,xavante_renamed/da'ba.wav,data/converted_audio/xavante/sd1775566888_2.wav,da'ba
+hetera.wav,xavante_renamed/hetera.wav,data/converted_audio/xavante/sd1775566889_1.wav,hetera
+hetera.wav,xavante_renamed/hetera.wav,data/converted_audio/xavante/sd1775566889_2.wav,hetera
+daSi'upte.wav,xavante_renamed/daSi'upte.wav,data/converted_audio/xavante/sd1775566890_1.wav,da si'upte
+daSi'upte.wav,xavante_renamed/daSi'upte.wav,data/converted_audio/xavante/sd1775566890_2.wav,da si'upte
+ĩ'he.wav,xavante_renamed/ĩ'he.wav,data/converted_audio/xavante/sd1775566891_1.wav,ĩ'he
+ĩ'he.wav,xavante_renamed/ĩ'he.wav,data/converted_audio/xavante/sd1775566891_2.wav,ĩ'he
+daNhimizaze.wav,xavante_renamed/daNhimizaze.wav,data/converted_audio/xavante/sd1775566892_1.wav,da nhimizaze
+daNhimizaze.wav,xavante_renamed/daNhimizaze.wav,data/converted_audio/xavante/sd1775566892_2.wav,da nhimizaze
+dapredu.wav,xavante_renamed/dapredu.wav,data/converted_audio/xavante/sd1775566893_1.wav,dapredu
+dapredu.wav,xavante_renamed/dapredu.wav,data/converted_audio/xavante/sd1775566893_2.wav,dapredu
+ĩsa'po'do.wav,xavante_renamed/ĩsa'po'do.wav,data/converted_audio/xavante/sd1775566894_1.wav,ĩsa'po'do
+ĩsa'po'do.wav,xavante_renamed/ĩsa'po'do.wav,data/converted_audio/xavante/sd1775566894_2.wav,ĩsa'po'do
+romhi.wav,xavante_renamed/romhi.wav,data/converted_audio/xavante/sd1775566895_1.wav,romhi
+romhi.wav,xavante_renamed/romhi.wav,data/converted_audio/xavante/sd1775566895_2.wav,romhi
+anũma.wav,xavante_renamed/anũma.wav,data/converted_audio/xavante/sd1775566896_1.wav,anũma
+anũma.wav,xavante_renamed/anũma.wav,data/converted_audio/xavante/sd1775566896_2.wav,anũma
+ru'a.wav,xavante_renamed/ru'a.wav,data/converted_audio/xavante/sd1775566897_1.wav,ru'a
+ru'a.wav,xavante_renamed/ru'a.wav,data/converted_audio/xavante/sd1775566897_2.wav,ru'a
+awẽ.wav,xavante_renamed/awẽ.wav,data/converted_audio/xavante/sd1775566898_1.wav,awẽ
+awẽ.wav,xavante_renamed/awẽ.wav,data/converted_audio/xavante/sd1775566898_2.wav,awẽ
+dazarõno.wav,xavante_renamed/dazarõno.wav,data/converted_audio/xavante/sd1775566899_1.wav,dazarõno
+dazarõno.wav,xavante_renamed/dazarõno.wav,data/converted_audio/xavante/sd1775566899_2.wav,dazarõno
+tiripa.wav,xavante_renamed/tiripa.wav,data/converted_audio/xavante/sd1775566900_1.wav,tiripa
+tiripa.wav,xavante_renamed/tiripa.wav,data/converted_audio/xavante/sd1775566900_2.wav,tiripa
+daNo.wav,xavante_renamed/daNo.wav,data/converted_audio/xavante/sd1775566901_1.wav,da no
+daNo.wav,xavante_renamed/daNo.wav,data/converted_audio/xavante/sd1775566901_2.wav,da no
+da'wa.wav,xavante_renamed/da'wa.wav,data/converted_audio/xavante/sd1775566902_1.wav,da'wa
+da'wa.wav,xavante_renamed/da'wa.wav,data/converted_audio/xavante/sd1775566902_2.wav,da'wa
+ai'utepre.wav,xavante_renamed/ai'utepre.wav,data/converted_audio/xavante/sd1775566903_1.wav,ai'utepre
+ai'utepre.wav,xavante_renamed/ai'utepre.wav,data/converted_audio/xavante/sd1775566903_2.wav,ai'utepre
