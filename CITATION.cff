@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "terradoc-bor: Repositório de Áudios Xavante"
+message: "Se você usar este repositório, cite-o conforme indicado abaixo."
+type: dataset
+authors:
+  - family-names: "Raiwia Werehite"
+    given-names: "Valeriano"
+  - family-names: "Ferraz Gerardi"
+    given-names: "Fabrício M."
+repository-code: "https://github.com/LanguageStructure/terradoc-enw"
+url: "https://github.com/LanguageStructure/terradoc-enw"
+date-released: "2026-05-03"
+abstract: "Repositório de dados de áudio Xavante para documentação linguística, plataformas digitais, materiais educacionais e pesquisas em tecnologias de fala."
