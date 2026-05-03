@@ -33,3 +33,12 @@ terradoc-bor/
 │   └── consent_and_access_notes.md
 └── docs/
     └── usage_notes.md
+
+```
+
+## Metadados dos participantes
+
+As informações sobre os participantes das gravações estão organizadas no arquivo:
+
+```text
+metadata/speakers.csv
