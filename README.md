@@ -56,3 +56,9 @@ A autoria reflete a coordenação científica, a curadoria dos dados, a colabora
 Os demais participantes das gravações são listados em `metadata/speakers.csv`, quando houver autorização explícita para atribuição nominal. Quando essa autorização não existir, os participantes são identificados apenas por códigos de falante.
 
 A inclusão de um participante em `metadata/speakers.csv` não implica automaticamente coautoria do repositório ou de publicações derivadas. Ao mesmo tempo, todos os direitos de atribuição, reconhecimento e controle comunitário sobre os dados devem ser respeitados.
+
+# terradoc-xav: Repositório de Áudios Xavante
+
+**Versão atual:** v1.0.0  
+**DOI:** 10.5281/zenodo.10.5281/zenodo.  
+**Projeto:** Plataformas Indígenas 
