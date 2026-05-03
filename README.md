@@ -4,6 +4,9 @@ Este repositório contém arquivos de áudio em língua **Xavante**, utilizados 
 
 Os arquivos aqui reunidos podem servir como base para dicionários digitais, corpora linguísticos, materiais escolares, estudos fonéticos e fonológicos, reconhecimento automático de fala, síntese de fala e modelos de linguagem voltados a línguas indígenas brasileiras.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20007474.svg)](https://doi.org/10.5281/zenodo.20007474)
+
+
 ## Objetivo
 
 O objetivo deste repositório é oferecer uma organização transparente, rastreável e citável dos arquivos de áudio Bororo usados em:
@@ -60,5 +63,5 @@ A inclusão de um participante em `metadata/speakers.csv` não implica automatic
 # terradoc-xav: Repositório de Áudios Xavante
 
 **Versão atual:** v1.0.0  
-**DOI:** 10.5281/zenodo.10.5281/zenodo.  
+**DOI:** 10.5281/zenodo.10.5281/zenodo.20007474 
 **Projeto:** Plataformas Indígenas 
